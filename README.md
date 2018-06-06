@@ -1,4 +1,4 @@
-# KFreamwrok
+# KFramework
 
 KFreamwork 是一个Unity3D开发游戏的通用框架和底层模块, 不包含游戏逻辑, 各模块直接低耦合, 可以自由提取某个模块使用, 帮助快速开发.
 
